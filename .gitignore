@@ -1,0 +1,7 @@
+*.jsonl
+*.joblib
+tests/
+test*.txt
+.env
+__pycache__/
+venv/
